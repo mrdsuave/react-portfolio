@@ -8,8 +8,7 @@
   "scripts": {
     "preinstall": "npm set audit false",
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
-    "precommit": "eslint src",
-    "prod": "NODE_ENV=production node server.js"
+    "precommit": "eslint src"
   },
   "repository": {
     "type": "git",
