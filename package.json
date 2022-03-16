@@ -2,7 +2,7 @@
   "name": "dylan-gentle-react-portfolio",
   "version": "1.0.0",
   "engines": {
-    "node": "14.x"
+    "node": "14.17.3"
   },
   "description": "Personal portfoliio app built in React.",
   "scripts": {
