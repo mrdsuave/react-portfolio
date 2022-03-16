@@ -1,6 +1,10 @@
 {
   "name": "dylan-gentle-react-portfolio",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+
   "description": "Personal portfoliio app built in React.",
   "scripts": {
     "preinstall": "npm set audit false",
